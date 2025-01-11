@@ -29,7 +29,7 @@ MonoBehaviour:
   - ActionBindingPath: <Gamepad>/dpad/down
     PromptSprite: {fileID: 1689314830, guid: e584e6e796e75104d9aebc58c7c2896c, type: 3}
   - ActionBindingPath: <Gamepad>/dpad/left
-    PromptSprite: {fileID: 2066886687, guid: e584e6e796e75104d9aebc58c7c2896c, type: 3}
+    PromptSprite: {fileID: 518151432, guid: e584e6e796e75104d9aebc58c7c2896c, type: 3}
   - ActionBindingPath: <Gamepad>/dpad/right
     PromptSprite: {fileID: 399501258, guid: e584e6e796e75104d9aebc58c7c2896c, type: 3}
   - ActionBindingPath: <Gamepad>/buttonWest
@@ -58,3 +58,4 @@ MonoBehaviour:
     PromptSprite: {fileID: 839947442, guid: e584e6e796e75104d9aebc58c7c2896c, type: 3}
   - ActionBindingPath: <Gamepad>/touchpadButton
     PromptSprite: {fileID: 155391063, guid: e584e6e796e75104d9aebc58c7c2896c, type: 3}
+  DeviceSpriteEntries: []
