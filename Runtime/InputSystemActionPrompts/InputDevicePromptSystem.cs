@@ -206,7 +206,7 @@ namespace InputSystemActionPrompts
             {
                 if (s_ActiveDevice == null) return null;
 
-                var activeDeviceName = s_ActiveDevice.name;
+                var activeDeviceName = s_ActiveDevice.layout;
 
                 if (!s_DeviceDataBindingMap.ContainsKey(activeDeviceName))
                 {
